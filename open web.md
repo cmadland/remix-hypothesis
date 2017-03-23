@@ -1,0 +1,2 @@
+# Open Web
+* They may invest more time and effort, as the stakes are higher and others will be viewing and possibly evaluating their material.Publishing online is not always appropriate however, as there may be negative implications related to privacy (student information), formative learning experiences (less willing to make helpful mistakes), technology-focused (not demonstrating learning), technology barriers, etc.

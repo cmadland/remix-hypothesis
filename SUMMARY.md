@@ -4,12 +4,12 @@
 * [academic freedom](academic-freedom.md)
 * [academic integrity](academic-integrity.md)
 * [access](access.md)
-* adaptation
+* [adaptation](adaptation.md)
 * [agency](agency.md)
-* alignment
-* collaboration
+* [alignment](alignment.md)
+* [collaboration](collaboration.md)
 * [cost](cost.md)
-* faculty pay
+* [faculty pay](faculty-pay.md)
 * faculty scholarship
 * finding oer
 * freedom from work
@@ -17,9 +17,9 @@
 * intercultural
 * lack of interest
 * licensing
-* mindset
-* multimedia
-* oep
+* [mindset](mindset.md)
+* [multimedia](multimedia.md)
+* [oep](oep.md)
 * open web
 * outcomes
 * platform

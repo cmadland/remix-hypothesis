@@ -30,6 +30,7 @@
   * [supplement](supplement.md)
   * [too early](too-early.md)
   * [willingness](willingness.md)
+* [Introduction](Sections/Introduction.md)
 * [Literature Review](literature-review.md)
 * [Purpose](purpose.md)
 * [Questions](questions.md)

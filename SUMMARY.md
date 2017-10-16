@@ -11,22 +11,23 @@
   * [collaboration](collaboration.md)
   * [cost](cost.md)
   * [faculty pay](faculty-pay.md)
-  * faculty scholarship
-  * finding oer
-  * freedom from work
+  * [faculty scholarship](faculty-scholarship.md)
+  * [finding oer](finding-oer.md)
+  * [freedom from work](freedom-from-work.md)
   * [freedom to participate](freedom-to-participate.md)
-  * lack of interest
-  * licensing
+  * [lack of interest](lack-of-interest.md)
+  * [licensing](licensing.md)
   * [mindset](mindset.md)
   * [multimedia](multimedia.md)
   * [oep](oep.md)
-  * open web
-  * outcomes
-  * platform
-  * policy
-  * privacy
-  * quality
-  * supplement
+  * [open web](open-web.md)
+  * [outcomes](outcomes.md)
+  * [platform](platform.md)
+  * [policy](policy.md)
+  * [privacy](privacy.md)
+  * [quality](quality.md)
+  * [supplement](supplement.md)
   * [too early](too-early.md)
   * [willingness](willingness.md)
+* [Interview Questions](interview-questions.md)
 

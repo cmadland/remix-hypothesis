@@ -2,7 +2,7 @@ This study uses a mixed methods design combining the predictive power of quantit
 
 Participants in the study will include six different populations, including distance students, campus students, distance teaching faculty, campus teaching faculty, faculty instructional designers, and administrators. Given the relatively small size of Thompson Rivers University, results will be compared to data gathered by BCcampus and the Open Education Resource Hub in the United Kingdom.
 
-**Data Collection**
+##### Data Collection
 
 Campus and distance students will be surveyed to determine how much they typically spend on required and optional resources per semester, how required and optional resources are used to support learning, how their attainment of learning outcomes is affected by the resources that they use, and how they perceive the quality of their resources.
 

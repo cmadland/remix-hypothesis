@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Interviews](https://www.gitbook.com/book/cmadland/remix-hypothesis/edit#)
+* [Interviews](interviews.md)
   * [academic freedom](academic-freedom.md)
   * [academic integrity](academic-integrity.md)
   * [access](access.md)

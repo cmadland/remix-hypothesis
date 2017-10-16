@@ -1,11 +1,3 @@
-  
-p.p1 {margin: 0.0px 0.0px 12.0px 0.0px; text-indent: 18.0px; line-height: 15.0px; font: 12.0px Arial}  
-p.p2 {margin: 0.0px 0.0px 12.0px 10.0px; text-align: justify; font: 12.0px Arial}  
-p.p3 {margin: 0.0px 0.0px 12.0px 0.0px; line-height: 15.0px; font: 12.0px Arial}  
-p.p4 {margin: 0.0px 0.0px 12.0px 9.0px; text-indent: -9.0px; line-height: 15.0px; font: 12.0px Arial}  
-span.Apple-tab-span {white-space:pre}  
-
-
 Open educational resources may hold significant promise for contributing to the kind of progress that genuinely improves higher education in North America. While breathless pronouncements of ‘disruptive innovations’ seem to accompany the predicted demise of universities \(except for 10, of course\), a relatively small group of OER researchers and practitioners have been quietly working on projects that have actually made a difference.
 
 In the autumn of 2012 at the Open Education Conference at the downtown campus of the University of British Columbia, John Yap, then the Minister of Advanced Education in British Columbia, announced that the provincial government would be funding a project in cooperation with BCCampus to create open textbooks for the 40 most common undergraduate courses offered at BC public universities {2012, \#20239}. The number of textbooks funded soon grew to 80 and as of this writing, there are 118 open textbooks available in the repository, with more to come {Coolidge, 2015, \#4968}.

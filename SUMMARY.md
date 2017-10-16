@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Interviews](interviews.md)
+* [Interview Responses](interviews.md)
   * [academic freedom](academic-freedom.md)
   * [academic integrity](academic-integrity.md)
   * [access](access.md)
@@ -29,6 +29,4 @@
   * supplement
   * [too early](too-early.md)
   * [willingness](willingness.md)
-
-
 

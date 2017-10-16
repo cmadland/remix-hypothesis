@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Interview Responses](interviews.md)
-  * [Interview Questions](https://www.gitbook.com/book/cmadland/remix-hypothesis/edit#)
+* [Interviews](interviews.md)
+  * [Interview Questions](interview-questions.md)
   * [academic freedom](academic-freedom.md)
   * [academic integrity](academic-integrity.md)
   * [access](access.md)
@@ -30,6 +30,4 @@
   * [supplement](supplement.md)
   * [too early](too-early.md)
   * [willingness](willingness.md)
-
-
 

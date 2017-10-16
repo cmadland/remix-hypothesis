@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [README](README.md)
 * [Interviews](interviews.md)
   * [Interview Questions](interview-questions.md)
   * [academic freedom](academic-freedom.md)

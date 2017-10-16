@@ -1,50 +1,73 @@
-Open educational resources may hold significant promise for contributing to the kind of progress that genuinely improves higher education in North America. While breathless pronouncements of ‘disruptive innovations’ seem to accompany the predicted demise of universities \(except for 10, of course\), a relatively small group of OER researchers and practitioners have been quietly working on projects that have actually made a difference.
+**{^Fischer et al., 2015, \#77495}** describe the state of the literature on OER by focussing their investigation on the improved learning outcomes that result from reduced costs and specifically exclude different instructional designs as being a driver for improved outcomes. They base their decision to do so on the well-known no significant difference phenomenon mentioned previously.
 
-In the autumn of 2012 at the Open Education Conference at the downtown campus of the University of British Columbia, John Yap, then the Minister of Advanced Education in British Columbia, announced that the provincial government would be funding a project in cooperation with BCCampus to create open textbooks for the 40 most common undergraduate courses offered at BC public universities {2012, \#20239}. The number of textbooks funded soon grew to 80 and as of this writing, there are 118 open textbooks available in the repository, with more to come {Coolidge, 2015, \#4968}.
+However, there exist rigorous studies that do show differences between different educational treatments. Perhaps the most well-known investigation was conducted by {^Bloom, 1984, \#49127} who found that students who were tutored one-on-one or in very small groups using mastery learning techniques performed a full two standard deviations above the control, out-performing 98% of the control group. {^Hattie, 2011, \#72976} reports on his meta-analysis of over 1000 meta-analyses that there are educational practices that are more effective than others. Hattie's core argument is that "teachers are among the most powerful influencers of learning" {%Hattie, 2011, \#72976}, especially when they are attuned to the impact that they are having on student learning. Teachers must take an active role in student learning by providing opportunities for students to construct knowledge through challenging learning experiences as well as effective formative feedback.
 
-Open textbooks are a subset of open education resources \(OER\), which are defined by the William and Flora Hewlett Foundation as
+To argue that teachers are the most powerful influence on learning is not to argue that they are the only influence on learning. Again, Hattie points to many influences on student learning that are both positive and negative to varying degrees. For example, extended vacations from school have a significant negative influence on learning, while higher levels of prior student knowledge have significant positive influences.
 
-“teaching, learning, and research resources that reside in the public domain or have been released under an intellectual property license that permits their free use and re-purposing by others. Open educational resources include full courses, course materials, modules, textbooks, streaming videos, tests, software, and any other tools, materials, or techniques used to support access to knowledge” {Hewlett, \#7683}.
+**Design of Learning Activities**
 
-{^Bliss et al., 2013, \#37955} suggest that there are four primary categories of effects from OER use, including cost, outcomes, use, and perceptions. These four categories, which form the acronym COUP may be useful in identifying specific, measurable benefits of OER.
+{^Biggs et al., 2001, \#99663} argue that there are several categories of influences that interact to influence how well students are able to attain learning outcomes. In their 3P model \(figure 1\)
 
-**Cost**
+  
 
-There have been several studies investigating the effects of OER use on cost with results indicating that students collectively save between 50% and 80%, with individual students potentially saving 100% of their textbook costs. {REF}
 
-**Outcomes**
+They show that some factors precede the learning environment, others are focussed on the approaches that students take and both of those categories influence the product, or the attainment of learning outcomes.
 
-In light of evidence that OER do reduce student costs, {^Bliss et al., 2013, \#37955} suggest that researchers and practitioners examine how the use of OER affects the attainment of student learning outcomes. While the body of literature is currently small, there is a trend for studies to show that there is no significant difference between how well students using OER perform compared to those who use commercially prepared materials. This is in alignment with a great deal of the literature examining learning differences between various educational interventions {Russell, ND, \#14886}.
+**Student Factors**
 
-**Use**
+ Factors that precede the learning environment, ‘presage’ in figure 1, are related to both students and teachers. Students bring to the learning environment varying degrees of prior learning, innate abilities and their preferred approaches to learning. All of these factors directly influence how students approach learning activities and how well they attain the learning outcomes. Their approaches to the learning activities also influences how well they attain the learning outcomes. So a student with high levels of prior knowledge, who takes a deep approach to the learning activity, is more likely to attain the learning outcome than a student with low levels of prior knowledge who takes a surface approach.
 
-Key to the definition of an OER is the fact that they are either in the public domain, or they have been released under an intellectual property license that permits their free use and repurposing by others. The BC Open Textbook Project has released their open textbooks under a Creative Commons license, which, beyond allowing free use and repurposing, specify that, while the original author retains copyright, users are permitted and encouraged to exercise five specific rights to the resource, as follows:
+**Teaching Factors**
 
-• Retain - the right to make, own, and control copies of the content \(e.g., download, duplicate, store, and manage\)
+ The other category of factors that influence both student approaches to learning and the attainment of learning outcomes is the activity in which the teacher engages in order to design and deploy the learning materials and activities. A key component of the design of the learning environment is the need for constructive alignment {Biggs and Tang, 2011, \#56020}. A course is aligned when the learning activities are designed in such a way that they require students to do the things required of the learning outcomes.
 
-• Reuse - the right to use the content in a wide range of ways \(e.g., in a class, in a study group, on a website, in a video\)
+ For example, a learning outcome might be ‘Students will be able to design and test an alternate model to explain theory XYZ’. This is a great outcome. But great outcomes don’t necessarily lead to student success. If the instructor relies only on multiple choice quizzes and exams in the course, they are not assessing the outcome as it is written, they are assessing an outcome more like ‘students will understand model ABC to explain theory XYZ’.
 
-• Revise - the right to adapt, adjust, modify, or alter the content itself \(e.g., translate the content into another language\)
+ Instructors who do not align the learning activities that they require of students to appropriate learning outcomes run the risk of providing ideal conditions for students to take surface approaches to their activity.
 
-• Remix - the right to combine the original or revised content with other open content to create something new \(e.g., incorporate the content into a mashup\)
+**Approaches to Learning \(What Students Do\)**
 
-• Redistribute - the right to share copies of the original content, your revisions, or your remixes with others \(e.g., give a copy of the content to a friend\) {Wiley, ND, \#30769}.
+{^Shuell, 1986, \#80999@429} argues
 
-These rights, collectively known as the 5Rs, may provide opportunity for faculty to interact differently with OER than they might with commercially produced resources.
+If students are to learn desired outcomes in a reasonably effective manner, then the teacher’s fundamental task is to get students to engage in learning activities that are likely to result in their achieving those outcomes. It is important to remember that what the student does is more important than what the teacher does.
 
-**Perceptions**
+There are two tasks in a teaching and learning context. The instructor must deliberately design a constructively aligned learning environment, and the student must engage in the activities.
 
-Also important in promoting the adoption of OER is understanding how both faculty and students perceive OER in relation to commercial resources. Several studies have examined these questions with the predominant perception being that OER and commercial resources are generally equal in terms of perceived quality and effectiveness.
+Students tend to take one of two approaches to learning activities based on the various interactions of the factors described above. Surface approaches are characterized by students using lower order cognitive skills for activities that require higher order cognitive skills whereas deep approaches to learning are characterized by students using higher order cognitive skills for tasks which require them.
 
-**The Medium is the Message**
+An example of a student taking a surface approach would be the student who prepares for a final assessment by simply memorizing the highlighted vocabulary words in a particular unit or textbook, but doesn’t put any effort into understanding how the key ideas of the materials are related to each other. On the contrary, a student who does understand the relationships between ideas, the conflicting theories, and why those things are important will presumably perform better on a final assessment that requires that level of cognitive effort.
 
-This study will explore how the use of OER influences both learning outcomes and perceptions of OER. In their report, {^Bliss et al., 2013, \#37955} used temporal measures to describe how much more or less students accessed OER compared to commercial resources. All other things considered equal \(such as quality\), it seems evident that outcomes should be improved if students access required texts more often.
+Notice that these different approaches are not descriptions of students themselves, they are actions that all students can take at any given time. Nor are these approaches to be confused with the notion of learning styles. Despite a lack of empirical support for their existence and relevance to learning environments, learning styles are typically described as being static characteristics of particular students. On the contrary, approaches to learning are contextual and can vary from task to task. Any given student may take a deep approach to learning on one task and a surface approach on another.
 
-Beyond that, however, McLuhan \[YEAR\] argues that how a message is transmitted influences the message itself. OER seem to be a clear example of how medium and message interact to influence the message. For example, a faculty member may find, create, or revise an OER and provide for their students the best possible free resource for use in their class, but if it is deployed in a closed environment, such as a proprietary LMS, or other similarly locked-down platform, then there will necessarily be limitations on how the resources can be retained, reused, revised, remixed, and redistributed, thereby nullifying the open license.
+Since these decisions are based on factors both internal to the student and influenced by the instructor, there is room for the instructor to design the learning environment to maximize the likelihood that students will choose to take a deeper approach.
 
-{^Biggs and Tang, 2011, \#56020} argue that the more important component in students attaining learning outcomes is what students do, rather than what faculty do. However, I intend to argue that, while the activity of students is critical, learning environments can be enhanced to improve the likelihood that students will take deeper approaches to their learning, and that it is faculty activities, enabled by the 5R rights, that are the controllable factors in improving the learning environment.
+  
 
-The BCcampus open textbook project is an example of how a platform for deploying OER is a critical component of how the OER can be used to enable the 5Rs for both faculty and students. All BCcampus open textbooks are hosted in WordPress supported by a customized version of the PressBooks plugin. Each textbook is available for download in a number of formats, including options that can be retained, reused, and redistributed but not revised or remixed such as a printed copy or PDF, but also as XML WordPress backup files, HTML, and ODT that support all the 5R rights.
 
-Thompson Rivers University has also used WordPress to support the deployment of OER, but has also begun promoting open pedagogies, or the use of learning activities that are conducted on the open web using open platforms. Examples include the rMOOC \(social justice\), the YouShow \(ePortfolios\), and the Online Teaching and Learning \(faculty development\) course.
+**Remix Hypothesis**
+
+The remix hypothesis is the idea that higher levels of faculty remixing activities will result in students attaining deeper learning {Wiley, 2015, \#75003}. Wiley proposes that there could be three levels of faculty remixing activities leading to differential learning outcomes.
+
+**Replace**
+
+Many faculty begin using OER by simply replacing a commercial resource with an OER, such as an open textbook. They engage in no remixing activities as they are enabled by the open license. Wiley predicts that there will be a small number of students, those who are financially disadvantaged may see improved learning outcomes simply because they can afford the textbook and don’t try to complete the course without purchasing the text. Beyond that, Wiley hypothesizes that there will be little to no improvements in student attainment of learning outcomes.
+
+**Realign **
+
+Faculty who realign their courses engage in some remixing activities in alignment with the open license of the materials. In Wiley’s experience, they often reduce their courses to their learning outcomes and then identify open resources that best support student learning in their given context. Wiley hypothesizes that there will be “small to modest” improvements in student attainment of learning outcomes.
+
+**Rethink **
+
+Faculty who rethink their courses engage in both remixing course materials and also in remixing their pedagogy. They engage with the 5R rights of the materials to encourage students to do things that they wouldn’t normally be able to do if there were using commercially prepared resources. Wiley hypothesizes that there will be”modest to large” increases in student learning when faculty rethink their courses. Wiley calls this practice “open pedagogy”.
+
+Examples of open pedagogy include, but are not limited to:
+
+* Students revising and republishing their open textbook so that it contains more local examples or up-to-date views.
+* Contributing as a collaborator to an open and public-facing resource such as a wiki.
+* Analyzing the ‘talk’ pages of a wiki to learn about the process of negotiating how knowledge is communicated to a public audience.
+* **Open Platforms**
+
+It should be noted that open pedagogical practices are significantly enabled not only by the licenses applied to learning materials, but by the nature of the platform through which they are distributed. For example, if an article is published under an open license, but the text of the article is published in PDF format with the security settings such that copying the text is not allowed, or a password is required to open or edit the file, then it will be more difficult for users to actually engage in open pedagogical practices. Another example might be a resource that can only be accessed with expensive, proprietary software, or that is secured behind an institutional password as in a typical learning management system. Better options for platforms are those that allow easier copying or collaboration, like wikis or blogs; or, perhaps the current gold standard, platforms that are built specifically to encourage copying and revising like the various git platforms \(GitHub, GitBooks, GitLab\).
+
+Git platforms are built around functionality that prioritizes openness and encourages the practice of forking which occurs when a user creates a branch of the content, or a copy of the work in their own account, then revises it to share under the same license, or create a pull request to propose that the original author merge the new copy with the old.
 

@@ -31,7 +31,7 @@
   * [too early](too-early.md)
   * [willingness](willingness.md)
 * [Introduction](sections/Introduction.md)
-* [Literature Review](literature-review.md)
+* [Literature Review](sections/literature-review.md)
 * [Purpose](purpose.md)
 * [Questions](questions.md)
 * [Method](method.md)

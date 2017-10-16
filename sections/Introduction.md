@@ -20,15 +20,11 @@ In light of evidence that OER do reduce student costs, {^Bliss et al., 2013, \#3
 
 Key to the definition of an OER is the fact that they are either in the public domain, or they have been released under an intellectual property license that permits their free use and repurposing by others. The BC Open Textbook Project has released their open textbooks under a Creative Commons license, which, beyond allowing free use and repurposing, specify that, while the original author retains copyright, users are permitted and encouraged to exercise five specific rights to the resource, as follows:
 
-• Retain - the right to make, own, and control copies of the content \(e.g., download, duplicate, store, and manage\)
-
-• Reuse - the right to use the content in a wide range of ways \(e.g., in a class, in a study group, on a website, in a video\)
-
-• Revise - the right to adapt, adjust, modify, or alter the content itself \(e.g., translate the content into another language\)
-
-• Remix - the right to combine the original or revised content with other open content to create something new \(e.g., incorporate the content into a mashup\)
-
-• Redistribute - the right to share copies of the original content, your revisions, or your remixes with others \(e.g., give a copy of the content to a friend\) {Wiley, ND, \#30769}.
+* Retain - the right to make, own, and control copies of the content \(e.g., download, duplicate, store, and manage\)
+* Reuse - the right to use the content in a wide range of ways \(e.g., in a class, in a study group, on a website, in a video\)
+* Revise - the right to adapt, adjust, modify, or alter the content itself \(e.g., translate the content into another language\)
+* Remix - the right to combine the original or revised content with other open content to create something new \(e.g., incorporate the content into a mashup\)
+* Redistribute - the right to share copies of the original content, your revisions, or your remixes with others \(e.g., give a copy of the content to a friend\) {Wiley, ND, \#30769}.
 
 These rights, collectively known as the 5Rs, may provide opportunity for faculty to interact differently with OER than they might with commercially produced resources.
 

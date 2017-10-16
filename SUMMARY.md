@@ -31,4 +31,5 @@
   * [too early](too-early.md)
   * [willingness](willingness.md)
 * [Literature Review](literature-review.md)
+* [Purpose](purpose.md)
 

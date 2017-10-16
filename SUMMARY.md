@@ -33,4 +33,5 @@
 * [Literature Review](literature-review.md)
 * [Purpose](purpose.md)
 * [Questions](questions.md)
+* [Method](method.md)
 

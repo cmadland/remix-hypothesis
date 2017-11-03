@@ -1,11 +1,6 @@
 # Summary
 
 * [README](README.md)
-* [Introduction](sections/Introduction.md)
-* [Literature Review](sections/literature-review.md)
-* [Purpose](sections/purpose.md)
-* [Questions](sections/questions.md)
-* [Method](sections/method.md)
 * [Interviews](interviews.md)
   * [Interview Questions](interviews/interview-questions.md)
   * [academic freedom](interviews/academic-freedom.md)
@@ -36,12 +31,17 @@
   * [too early](interviews/too-early.md)
   * [willingness](interviews/willingness.md)
   * [Responses by Q](interviews/Responses by Q.md)
-
 * Data
   * [Admin Responses](data/03-30 Admin Responses.csv)
   * [Faculty Responses](data/03-30 Faculty Responses.csv)
   * [ID Responses](data/04-01 ID Responses.csv)
   * [Student Responses](data/03-30 Student responses.csv)
+* Sections
+  * [Introduction](sections/Introduction.md)
+  * [Literature Review](sections/literature-review.md)
+  * [Purpose](sections/purpose.md)
+  * [Questions](sections/questions.md)
+  * [Method](sections/method.md)
 
 
 

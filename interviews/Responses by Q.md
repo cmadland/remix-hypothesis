@@ -9,10 +9,10 @@
 * Yes. My two introductory on-line sociology courses have been recently rewritten to use a new OER Ontro to Sociology textbook. One of the original textbooks for these two courses was extremely expensive, about $150 for the whole book, although the publisher’s custom book for the course was probably somewhat cheaper. The book for the other course was reasonably priced, but still, the OER book is free to students removing one level of financial impediment to access to education.  I might not have changed the course myself because it had already been recently revised and updated and was working well, but there was an institutional push from the then dean of arts to use the OER textbook. 
 * "Yes 
   * free easily accessible to everybody 
-** no copyright
-** more important because publishers tighter
-** important to students"
+ * no copyright
+ * more important because publishers tighter
+ * important to students"
 * "Yes. 
-** ability to modify according to current issues and interests
-** ability to work thematically (Truth and reconciliation commission)
-** get bored with someone else’s text, as do students"
+ * ability to modify according to current issues and interests
+ * ability to work thematically (Truth and reconciliation commission)
+ * get bored with someone else’s text, as do students"

@@ -35,9 +35,13 @@
   * [supplement](interviews/supplement.md)
   * [too early](interviews/too-early.md)
   * [willingness](interviews/willingness.md)
-* [Admin Responses](data/03-30 Admin Responses.csv)
-* [Faculty Responses](data/03-30 Faculty Responses.csv)
-* [ID Responses](data/04-01 ID Responses.csv)
-* [Student Responses](data/03-30 Student responses.csv)
-* [Responses by Q](interviews/Responses by Q.md)
+  * [Responses by Q](interviews/Responses by Q.md)
+
+* Data
+  * [Admin Responses](data/03-30 Admin Responses.csv)
+  * [Faculty Responses](data/03-30 Faculty Responses.csv)
+  * [ID Responses](data/04-01 ID Responses.csv)
+  * [Student Responses](data/03-30 Student responses.csv)
+
+
 
